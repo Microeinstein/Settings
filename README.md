@@ -1,2 +1,2 @@
 # Settings
-My C# simple settings library (.NET 4.0)
+My simple C# settings library (.NET 4.0)
